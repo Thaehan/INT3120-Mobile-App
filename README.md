@@ -12,5 +12,8 @@
   
 - Bài 3:
   - Tạo một project Flutter mới với VSCode:
-  - ![image](https://user-images.githubusercontent.com/62579790/154660755-899c8b54-fc96-4c13-824c-d859cc6346d5.png)
+  ![image](https://user-images.githubusercontent.com/62579790/154660755-899c8b54-fc96-4c13-824c-d859cc6346d5.png)
+  - Chạy thử ứng dụng đầu tiên:
+  ![image](https://user-images.githubusercontent.com/62579790/154689380-ed1679b0-e220-4462-90de-6964c24e7963.png)
+
 
