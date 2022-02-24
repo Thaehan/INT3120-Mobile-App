@@ -29,7 +29,7 @@
   -	Lập trình hướng đối tượng trong dart: gần tương tự với trong java tuy nhiên có những điểm khác nhau cần lưu ý: cách sử dụng phương thức getter và setter -  phương thức khởi tạo cũng có thể ngắn gọn hơn lại:
   ![image](https://user-images.githubusercontent.com/62579790/155514024-d0045622-903c-48e5-8fc0-4b0f293eb971.png)
   ![image](https://user-images.githubusercontent.com/62579790/155514061-51becd90-e392-443c-a7c3-1dbaf3865bae.png)
-- Bài 6: Widget trong Flutter:
-  - 
+ - Bài 6: Widget trong Flutter:
+  - Widget được phân loại theo chức năng thành 4 nhóm: Platform Widget - Layout Widget - State maintenance Widget - Basic Widget.
 
 
