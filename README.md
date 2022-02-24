@@ -16,7 +16,7 @@
   - Chạy thử ứng dụng đầu tiên:
   ![image](https://user-images.githubusercontent.com/62579790/154689380-ed1679b0-e220-4462-90de-6964c24e7963.png)
 
--	Bài 4: Kiến trúc flutter
+-	Bài 4:
   - Widgets
   - Gestures
   - State
