@@ -16,10 +16,10 @@
   - Chạy thử ứng dụng đầu tiên:
   ![image](https://user-images.githubusercontent.com/62579790/156629979-6592a0fb-553b-4a6e-907c-6f0bfab7d071.png)
 
--	Bài 4: Kiến trúc ứng dụng Flutter
-  - Widgets: Là thành phần chính của một ứng dụng sử dụng Flutter. Một ứng dụng Flutter là tổ hợp của một hoặc nhiều widget
-  - Gestures: Là thành phần nắm bắt các cử chỉ, tương tác của người dùng với ứng dụng.
-  - State: Là những trạng thái được lưu trữ, thay đổi trong quá trình sử dụng.
+- Bài 4: Kiến trúc ứng dụng Flutter
+  - Widgets là thành phần chính của một ứng dụng sử dụng Flutter. Một ứng dụng Flutter là tổ hợp của một hoặc nhiều widget
+  - Gestures là thành phần nắm bắt các cử chỉ, tương tác của người dùng với ứng dụng.
+  - State là những trạng thái được lưu trữ, thay đổi trong quá trình sử dụng.
   - Layers: Những widget chạy ở layer trên, dựa vào những layer dưới để tương tác với hệ điều hành.
 
 - Bài 5: Ngôn ngữ Dart
