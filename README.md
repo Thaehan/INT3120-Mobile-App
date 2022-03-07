@@ -61,43 +61,45 @@
   - ScopedModel được flutter cung cấp để truyền Data Model từ widget cha xuống widget con.
   - ScopedModelDescendant là một widget được cung cấp để render lại UI mỗi khi Data Model thay đổi
 
+**Week 3**:
 - Bài 12: Navigation và Routing:
   - Navigator là một widget quản lý các trang của ứng dụng flutter theo định dạng ngăn xếp.
   - MaterialPageRoute là một widget được sử dụng để render giao diện người dùng để có thể thay thế toàn bộ màn hình với một hiệu ứng chuyển cảnh nào đó.
   - Phương thức sử dụng để chuyển màn hình khác là Navigation.push() và quay về trang trước bằng Navigation.pop();
 
 - Bài 13: Animation:
-
+  - Tạo giá trị thêm vvaof giữa hai số (bắt đầu - kết thúc).
+  - CurvedAnimation hỗ trợ animation phi tuyến tính.
+  - Tween<T>, AnimationController
 
 - Bài 14: Code với native android:
-
-
+  - Flutter cung cấp framework chung để truy cập vào các nền tảng có tính năng riêng biệt.
+  - Ta sẽ viết ứng dụng đơn giản để mở trình duyệt web sử dụng Android SDK.
+  
 - Bài 15: Code với native IOS:
-
-
-- Bài 16: Giới thiệu về package:
-
+  - Tương tự như với android, nhưng thay vì dùng Java ta sẽ dùng object C hoặc Swift và IOS sdk.
 
 - Bài 17: REST API:
-
+  - Class http cung cấp chức năng để làm việc với các kiểu dữ liệu HTTP được request.
+  - Các phương thức chính được sử dụng read(trả về Future<String>) - get(trả về Future<Response>) - post(trả về Future<Response>) - put(trả về Future<Response> - head(trả về Future<Response> - delete(trả về Future<Response>
 
 - Bài 18: Khái niệm về Database:
-
+  - Có 2 gói dùng để làm việc với cơ sở dữ liệu: sqflite - SQLite (cho SQL local) và firebase_database - Firebase (cho NOSQL lưu trữ trên đám mây).
 
 - Bài 19: Chuyển đổi ngôn ngữ:
-
+  - Ngôn ngữ ở đây là ngôn ngữ hiển thị ra ngoài màn hình (ví dụ khi bạn cài hệ điều hành, bạn phải chọn ngôn ngữ nào để sao cho khi ta cần tương tác với máy tính, ta sẽ hiểu được ngôn ngữ mà nó muốn thể hiện - Tiếng Anh, Tiếng Việt,...). Việc đó được gọi là localized.
+  - Flutter cung cấp gói intl để đơn giản hóa việc localized.
 
 - Bài 20: Testing:
-
+  -3 loại testing thông dụng trong Flutter testing: Unit Testing - Widget Testing - Intergration Testing.
 
 - Bài 21: Xuất ứng dụng trong Flutter:
-
-
+  - Đối với Android chạy các dòng lệnh như hướng dẫn và thực hiện cài đặt file APK
+  - Đối với IOS có lẽ mình sẽ bỏ qua phần này.
 - Bài 22: Công cụ phát triển:
-
-
+  - Một số công cụ hay được sử dụng như: Dart devtools, Flutter SDK, Flutter Inspector.
 - Bài 23: Viết ứng dụng hoàn chỉnh:
-
+  
 
 
 
