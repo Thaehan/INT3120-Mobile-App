@@ -62,8 +62,43 @@
   - ScopedModelDescendant là một widget được cung cấp để render lại UI mỗi khi Data Model thay đổi
 
 - Bài 12: Navigation và Routing:
+  - Navigator là một widget quản lý các trang của ứng dụng flutter theo định dạng ngăn xếp.
+  - MaterialPageRoute là một widget được sử dụng để render giao diện người dùng để có thể thay thế toàn bộ màn hình với một hiệu ứng chuyển cảnh nào đó.
+  - Phương thức sử dụng để chuyển màn hình khác là Navigation.push() và quay về trang trước bằng Navigation.pop();
 
-- Bài 13: Animation
+- Bài 13: Animation:
+
+
+- Bài 14: Code với native android:
+
+
+- Bài 15: Code với native IOS:
+
+
+- Bài 16: Giới thiệu về package:
+
+
+- Bài 17: REST API:
+
+
+- Bài 18: Khái niệm về Database:
+
+
+- Bài 19: Chuyển đổi ngôn ngữ:
+
+
+- Bài 20: Testing:
+
+
+- Bài 21: Xuất ứng dụng trong Flutter:
+
+
+- Bài 22: Công cụ phát triển:
+
+
+- Bài 23: Viết ứng dụng hoàn chỉnh:
+
+
 
 
 
