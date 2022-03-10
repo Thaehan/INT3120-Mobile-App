@@ -1,0 +1,22 @@
+[
+  {
+    "name": "s1mple",
+    "imagePath": "assets/images/s1mple.jpg",
+    "number": "1"
+  },
+  {
+    "name": "NiKo",
+    "imagePath": "assets/images/niko.jpg",
+    "number": "2"
+  },
+  {
+    "name": "Twistzz",
+    "imagePath": "assets/images/twistzz.jpg",
+    "number": "3"
+  },
+  {
+    "name": "kennyS",
+    "imagePath": "assets/images/kennys.jpg",
+    "number": "99"
+  }
+];
